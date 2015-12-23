@@ -10,8 +10,8 @@
 			<div class="row">
 			<div class="col-xs-12">
 				<div class="tg-theme-heading">
-					<span>WE ARE EXPERT IN</span>
-					<h2>SERVICES</h2>
+					<span>THIS IS</span>
+					<h2>ABOUT US</h2>
 				</div>
 			</div>
 			<div class="tg-aboutus-section">

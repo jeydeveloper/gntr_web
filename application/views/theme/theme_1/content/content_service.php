@@ -1,133 +1,190 @@
 <!--************************************
-		Home Slider Start
-*************************************-->
-<div id="home-slider" class="home-slider tg-haslayout">
-	<div class="item">
-		<figure>
-			<img src="<?php echo $assets['images']; ?>/home-slider/img-01.jpg" alt="image description">
-		</figure>
-		<div class="tg-banner-content">
-			<div class="tg-border-bottomleft">
-				<h1>Virtually <span>bUILD yOUR</span> HOUSE</h1>
-			</div>
-			<a class="tg-theme-btn" href="#">BUILD NOW</a>
-		</div>
-	</div>
-	<div class="item">
-		<figure>
-			<img src="<?php echo $assets['images']; ?>/home-slider/img-02.jpg" alt="image description">
-		</figure>
-		<div class="tg-banner-content">
-			<div class="tg-border-bottomleft">
-				<h1>Virtually <span>bUILD yOUR</span> HOUSE</h1>
-			</div>
-			<a class="tg-theme-btn" href="#">BUILD NOW</a>
-		</div>
-	</div>
-	<div class="item">
-		<figure>
-			<img src="<?php echo $assets['images']; ?>/home-slider/img-03.jpg" alt="image description">
-		</figure>
-		<div class="tg-banner-content">
-			<div class="tg-border-bottomleft">
-				<h1>Virtually <span>bUILD yOUR</span> HOUSE</h1>
-			</div>
-			<a class="tg-theme-btn" href="#">BUILD NOW</a>
-		</div>
-	</div>
-</div>
-<!--************************************
-		Home Slider End
-*************************************-->
-<!--************************************
 		Main Start
 *************************************-->
 <main id="main" class="tg-haslayout">
 	<!--************************************
-			Services Start
+			About Section Start
 	*************************************-->
-	<section class="tg-main-section tg-haslayout bg-white">
+	<section class="tg-main-section tg-haslayout">
+		<div class="container">
+			<div class="row">
+			<div class="col-xs-12">
+				<div class="tg-theme-heading">
+					<span>WE ARE EXPERT IN</span>
+					<h2>SERVICES</h2>
+				</div>
+			</div>
+			<div class="tg-aboutus-section">
+				<div class="col-md-6 col-sm-12 col-xs-12">
+					<figure class="tg-about-img"><img src="<?php echo $assets['images']; ?>/img-06.png" alt="image description"></figure>
+				</div>
+				<div class="col-md-6 col-sm-12 col-xs-12">
+					<div class="tg-aboutus">
+						<div class="tg-description">
+							<p>Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Claritas est etiam processus dynamicus, qui sequitur. Nam liber tempor cum soluta nobis eleifend option.</p>
+							<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure .</p>
+							<p>Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima.</p>
+						</div>
+						<a class="tg-theme-btn" href="#">Meet Our Team</a>
+					</div>
+				</div>
+			</div>
+			</div>
+		</div>
+	</section>
+	<!--************************************
+			About Section End
+	*************************************-->
+	<!--************************************
+			Member Skills Start
+	*************************************-->
+	<section class="tg-main-section tg-haslayout tg-skillreview-bg">
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-12">
 					<div class="tg-theme-heading">
-						<span>WE ARE EXPERT IN</span>
-						<h2>SERVICES</h2>
+						<span>we hold top</span>
+						<h2>skill team</h2>
 					</div>
 				</div>
-				<div class="col-xs-12">
-					<div class="col-md-4 col-sm-12 col-sm-offset-3 col-sm-12 col-md-offset-0 ">
-						<div class="row">
-							<div class="tg-service-img">
-								<figure class="tg-img-border">
-									<img src="<?php echo $assets['images']; ?>/img-01.jpg" alt="image description">
-								</figure>
+				<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+					<div class="tg-haslayout tg-skills">
+						<div id="our-skill" class="skill-group">
+							<div class="skill">
+								<span class="skill-name">Photoshop</span>
+								<div class="skill-holder" data-percent="95%">
+									<span>95%</span>
+									<div class="skill-bar"></div>
+								</div>
+							</div>
+							<div class="skill">
+								<span class="skill-name">After Effect</span>
+								<div class="skill-holder" data-percent="85%">
+									<span>85%</span>
+									<div class="skill-bar"></div>
+								</div>
+							</div>
+							<div class="skill">
+								<span class="skill-name">Illustrator</span>
+								<div class="skill-holder" data-percent="89%">
+									<span>89%</span>
+									<div class="skill-bar"></div>
+								</div>
+							</div>
+							<div class="skill">
+								<span class="skill-name">Flash</span>
+								<div class="skill-holder" data-percent="60%">
+									<span>60%</span>
+									<div class="skill-bar"></div>
+								</div>
 							</div>
 						</div>
 					</div>
-					<div class="col-md-8 col-sm-12 col-xs-12 zero-right-padding">
-						<div class="tg-services row">
-							<div class="tg-service services-content tg-haslayout">
-								<figure class="tg-sercice-img">
-									<img src="<?php echo $assets['images']; ?>/img-04.jpg" alt="image description">
-								</figure>
-								<div class="tg-border-topleft tg-haslayout">
-									<div class="tg-displaytable">
-										<div class="tg-displaytablecell">
-											<span class="flaticon-shovel23"></span>
-											<h3>Building</h3>
-											<div class="tg-description">
-												<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.</p>
+				</div>
+				<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+					<div class="row">
+						<div id="tg-skill-team-slider" class="tg-skill-team-slider">
+							<div class="item">
+								<div class="tg-ourteam tg-about-us tg-haslayout">
+									<div class="tg-teammember tg-haslayout">
+										<figure class="tg-member-img">
+											<a href="#"><img alt="member name" src="<?php echo $assets['images']; ?>/our-team/img-01.jpg"></a>
+											<div class="tg-member-hover">
+												<ul class="tg-member-hover-icons">
+													<li><a href="#"><i class="flaticon-plus79"></i></a></li>
+													<li><a href="#"><i class="flaticon-share55"></i></a></li>
+												</ul>
+												<div class="tg-member-detail tg-haslayout">
+													<span class="tg-member-name">Britney Doe</span>
+													<span class="tg-member-postion">Designer at Example.com</span>
+													<ul class="tg-social-icon">
+														<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+														<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+														<li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
+														<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+														<li><a href="#"><i class="fa fa-tumblr"></i></a></li>
+													</ul>
+												</div>
 											</div>
-										</div>
+										</figure>
 									</div>
 								</div>
 							</div>
-							<div class="tg-service tg-haslayout">
-								<figure class="tg-sercice-img">
-									<img src="<?php echo $assets['images']; ?>/img-04.jpg" alt="image description">
-								</figure>
-								<div class="tg-border-topleft tg-haslayout">
-									<div class="tg-displaytable">
-										<div class="tg-displaytablecell">
-											<span class="flaticon-star182"></span>
-											<h3>Renovation</h3>
-											<div class="tg-description">
-												<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.</p>
+							<div class="item">
+								<div class="tg-ourteam tg-about-us tg-haslayout">
+									<div class="tg-teammember tg-haslayout">
+										<figure class="tg-member-img">
+											<a href="#"><img alt="member name" src="<?php echo $assets['images']; ?>/our-team/img-02.jpg"></a>
+											<div class="tg-member-hover">
+												<ul class="tg-member-hover-icons">
+													<li><a href="#"><i class="flaticon-plus79"></i></a></li>
+													<li><a href="#"><i class="flaticon-share55"></i></a></li>
+												</ul>
+												<div class="tg-member-detail tg-haslayout">
+													<span class="tg-member-name">Britney Doe</span>
+													<span class="tg-member-postion">Designer at Example.com</span>
+													<ul class="tg-social-icon">
+														<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+														<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+														<li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
+														<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+														<li><a href="#"><i class="fa fa-tumblr"></i></a></li>
+													</ul>
+												</div>
 											</div>
-										</div>
+										</figure>
 									</div>
 								</div>
 							</div>
-							<div class="tg-service tg-haslayout">
-								<figure class="tg-sercice-img">
-									<img src="<?php echo $assets['images']; ?>/img-04.jpg" alt="image description">
-								</figure>
-								<div class="tg-border-topleft tg-haslayout">
-									<div class="tg-displaytable">
-										<div class="tg-displaytablecell">
-											<span class="flaticon-worker5"></span>
-											<h3>Digging</h3>
-											<div class="tg-description">
-												<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.</p>
+							<div class="item">
+								<div class="tg-ourteam tg-about-us tg-haslayout">
+									<div class="tg-teammember tg-haslayout">
+										<figure class="tg-member-img">
+											<a href="#"><img alt="member name" src="<?php echo $assets['images']; ?>/our-team/img-03.jpg"></a>
+											<div class="tg-member-hover">
+												<ul class="tg-member-hover-icons">
+													<li><a href="#"><i class="flaticon-plus79"></i></a></li>
+													<li><a href="#"><i class="flaticon-share55"></i></a></li>
+												</ul>
+												<div class="tg-member-detail tg-haslayout">
+													<span class="tg-member-name">Britney Doe</span>
+													<span class="tg-member-postion">Designer at Example.com</span>
+													<ul class="tg-social-icon">
+														<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+														<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+														<li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
+														<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+														<li><a href="#"><i class="fa fa-tumblr"></i></a></li>
+													</ul>
+												</div>
 											</div>
-										</div>
+										</figure>
 									</div>
 								</div>
 							</div>
-							<div class="tg-service tg-haslayout">
-								<figure class="tg-sercice-img">
-									<img src="<?php echo $assets['images']; ?>/img-04.jpg" alt="image description">
-								</figure>
-								<div class="tg-border-topleft tg-haslayout">
-									<div class="tg-displaytable">
-										<div class="tg-displaytablecell">
-											<span class="flaticon-interiordesign"></span>
-											<h3>Interior</h3>
-											<div class="tg-description">
-												<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.</p>
+							<div class="item">
+								<div class="tg-ourteam tg-about-us tg-haslayout">
+									<div class="tg-teammember tg-haslayout">
+										<figure class="tg-member-img">
+											<a href="#"><img alt="member name" src="<?php echo $assets['images']; ?>/our-team/img-04.jpg"></a>
+											<div class="tg-member-hover">
+												<ul class="tg-member-hover-icons">
+													<li><a href="#"><i class="flaticon-plus79"></i></a></li>
+													<li><a href="#"><i class="flaticon-share55"></i></a></li>
+												</ul>
+												<div class="tg-member-detail tg-haslayout">
+													<span class="tg-member-name">Britney Doe</span>
+													<span class="tg-member-postion">Designer at Example.com</span>
+													<ul class="tg-social-icon">
+														<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+														<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+														<li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
+														<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+														<li><a href="#"><i class="fa fa-tumblr"></i></a></li>
+													</ul>
+												</div>
 											</div>
-										</div>
+										</figure>
 									</div>
 								</div>
 							</div>
@@ -138,214 +195,99 @@
 		</div>
 	</section>
 	<!--************************************
-			Services End
+			Member Skills End
 	*************************************-->
 	<!--************************************
-			Virtually Build Start
+			F.A.Q Reviews Start
 	*************************************-->
-	<section class="tg-main-section tg-haslayout parallax-window" data-appear-top-offset="600" data-parallax="scroll" data-image-src="<?php echo $assets['images']; ?>/parallax-img/bg-parallax-01.jpg">
+	<section class="tg-main-section tg-haslayout">
 		<div class="container">
 			<div class="row">
-				<div class="col-sm-7 tg-displayinlineblock">
-					<div class="tg-virtual-img tg-haslayout">
-						<figure>
-							<img src="<?php echo $assets['images']; ?>/img-05.png" alt="image description">
-						</figure>
+				<div class="col-sm-6 col-xs-12">
+					<div class="tg-theme-heading tg-haslayout">
+						<span>some common</span>
+						<h2>F.A.Q</h2>
 					</div>
-				</div>
-				<div class="col-sm-5 tg-displayinlineblock">
-					<div class="tg-virtuallybuild">
-						<div class="tg-theme-heading">
-							<h2>virtually build your house <span>in few steps</span></h2>
-						</div>
-						<div class="tg-description">
-							<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud.</p>
-						</div>
-						<div class="tg-btn-box">
-							<a class="tg-theme-btn" href="#">build now</a>
-							<a class="tg-theme-btn" href="#">Read more</a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!--************************************
-			Virtually Build End
-	*************************************-->
-	<!--************************************
-			Portfolio Start
-	*************************************-->
-	<section class="tg-main-section tg-haslayout bg-white">
-		<div class="container">
-			<div class="row">
-				<div class="tg-portfolio">
-					<div class="col-sm-4">
-						<div class="tg-theme-heading">
-							<span>Some of our</span>
-							<h2>Portfolio</h2>
-						</div>
-						<div class="tg-service-img tg-haslayout">
-							<div class="tab-content tg-img-border">
-								<div role="tabpanel" class="tab-pane fade in active" id="portfolio-item-one">
-									<figure><img src="<?php echo $assets['images']; ?>/portfolio/img-01.jpg" alt="image description"></figure>
+					<div class="tg-accordion tg-haslayout">
+						<div class="tg-panel-group accordion" id="accordion">
+							<div class="tg-panel panel tg-haslayout">
+								<div class="tg-panel-heading actives">
+									<h3 class="actives"><a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">Sed ut perspiciatis</a></h3>
 								</div>
-								<div role="tabpanel" class="tab-pane fade" id="portfolio-item-two">
-									<figure><img src="<?php echo $assets['images']; ?>/portfolio/img-02.jpg" alt="image description"></figure>
+								<div id="collapseOne" class="panel-collapse collapse in">
+									<div class="tg-panel-body">
+										<ul>
+											<li>Doloremque laudantium</li>
+											<li>Totam rem</li>
+											<li>Eaque ipsa quaeab</li>
+											<li>Doloremque laudantium</li>
+										</ul>
+									</div>
 								</div>
-								<div role="tabpanel" class="tab-pane fade" id="portfolio-item-three">
-									<figure><img src="<?php echo $assets['images']; ?>/portfolio/img-03.jpg" alt="image description"></figure>
+							</div>
+							<div class="tg-panel panel tg-haslayout">
+								<div class="tg-panel-heading">
+									<h3><a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">ut perspiciatis</a></h3>
 								</div>
-								<div role="tabpanel" class="tab-pane fade" id="portfolio-item-four">
-									<figure><img src="<?php echo $assets['images']; ?>/portfolio/img-04.jpg" alt="image description"></figure>
+								<div id="collapseTwo" class="panel-collapse collapse">
+									<div class="tg-panel-body">
+										<ul>
+											<li>Doloremque laudantium</li>
+											<li>Totam rem</li>
+											<li>Eaque ipsa quaeab</li>
+											<li>Doloremque laudantium</li>
+										</ul>
+									</div>
 								</div>
-								<div role="tabpanel" class="tab-pane fade in" id="portfolio-item-five">
-									<figure><img src="<?php echo $assets['images']; ?>/portfolio/img-05.jpg" alt="image description"></figure>
+							</div>
+							<div class="tg-panel panel tg-haslayout last">
+								<div class="tg-panel-heading">
+									<h3><a data-toggle="collapse" data-parent="#accordion" href="#collapseThree">ut perspiciatis</a></h3>
 								</div>
-								<div role="tabpanel" class="tab-pane fade" id="portfolio-item-six">
-									<figure><img src="<?php echo $assets['images']; ?>/portfolio/img-06.jpg" alt="image description"></figure>
-								</div>
-								<div role="tabpanel" class="tab-pane fade" id="portfolio-item-seven">
-									<figure><img src="<?php echo $assets['images']; ?>/portfolio/img-07.jpg" alt="image description"></figure>
-								</div>
-								<div role="tabpanel" class="tab-pane fade" id="portfolio-item-eight">
-									<figure><img src="<?php echo $assets['images']; ?>/portfolio/img-08.jpg" alt="image description"></figure>
+								<div id="collapseThree" class="panel-collapse collapse">
+									<div class="tg-panel-body">
+										<ul>
+											<li>Doloremque laudantium</li>
+											<li>Totam rem</li>
+											<li>Eaque ipsa quaeab</li>
+											<li>Doloremque laudantium</li>
+										</ul>
+									</div>
 								</div>
 							</div>
 						</div>
 					</div>
-					<div class="col-sm-8">
-						<div class="portfolio masnory tg-haslayout">
-							<ul id="gallery-cats" class="gallery-cats option-set haslayout">
-								<li class="select"><a href="#" data-filter="*">All</a></li>
-								<li><a href="#" data-filter=".construction">Construction</a></li>
-								<li><a href="#" data-filter=".digging">Digging</a></li>
-								<li><a href="#" data-filter=".renovation">Renovation</a></li>
-								<li><a href="#" data-filter=".interior">Interior</a></li>
-							</ul>
-							<div class="row">
-							<div class="portfolio-content tg-haslayout portfolio-image grid" role="tablist">
-									<div role="presentation" class="active portfolio-item grid-item construction">
-										<div class="product-box">
-											<a href="#portfolio-item-one" aria-controls="portfolio-item-one" role="tab" data-toggle="tab">
-												<figure><img src="<?php echo $assets['images']; ?>/thumbnail/img-01.jpg" alt="image description"></figure>
-												<div class="tg-img-hover">
-													<div class="tg-displaytable">
-														<div class="tg-displaytablecell">
-															<i class="fa fa-picture-o"></i>
-															<h4>Exterior Project</h4>
-														</div>
-													</div>
-												</div>
-											</a>
-										</div>
+				</div>
+				<div class="col-sm-6 col-xs-12">
+					<div class="tg-haslayout tg-reviews">
+						<div class="tg-theme-heading">
+							<span>love to share</span>
+							<h2>reviews</h2>
+						</div>
+						<div id="tg-review-slider" class="tg-review-slider tg-haslayout">
+							<div class="tg-review tg-haslayout">
+								<div class="tg-review-content">
+									<div class="tg-reviewer-head tg-haslayout">
+										<strong class="tg-reviewer-name">Jonathan Smith</strong>
+										<span class="tg-reviewer-link"><a href="#">www.themeforest.net</a></span>
 									</div>
-									<div role="presentation" class="portfolio-item grid-item digging">
-										<div class="product-box">
-											<a href="#portfolio-item-two" aria-controls="portfolio-item-two" role="tab" data-toggle="tab">
-												<figure><img src="<?php echo $assets['images']; ?>/thumbnail/img-02.jpg" alt="image description"></figure>
-												<div class="tg-img-hover">
-													<div class="tg-displaytable">
-														<div class="tg-displaytablecell">
-															<i class="fa fa-picture-o"></i>
-															<h4>Exterior Project</h4>
-														</div>
-													</div>
-												</div>
-											</a>
-										</div>
-									</div>
-									<div role="presentation" class="portfolio-item grid-item renovation">
-										<div class="product-box">
-											<a href="#portfolio-item-three" aria-controls="portfolio-item-three" role="tab" data-toggle="tab">
-												<figure><img src="<?php echo $assets['images']; ?>/thumbnail/img-03.jpg" alt="image description"></figure>
-												<div class="tg-img-hover">
-													<div class="tg-displaytable">
-														<div class="tg-displaytablecell">
-															<i class="fa fa-picture-o"></i>
-															<h4>Exterior Project</h4>
-														</div>
-													</div>
-												</div>
-											</a>
-										</div>
-									</div>
-									<div role="presentation" class="portfolio-item grid-item interior">
-										<div class="product-box">
-											<a href="#portfolio-item-four" aria-controls="portfolio-item-four" role="tab" data-toggle="tab">
-												<figure><img src="<?php echo $assets['images']; ?>/thumbnail/img-04.jpg" alt="image description"></figure>
-												<div class="tg-img-hover">
-													<div class="tg-displaytable">
-														<div class="tg-displaytablecell">
-															<i class="fa fa-picture-o"></i>
-															<h4>Exterior Project</h4>
-														</div>
-													</div>
-												</div>
-											</a>
-										</div>
-									</div>
-									<div role="presentation" class="portfolio-item grid-item construction">
-										<div class="product-box">
-											<a href="#portfolio-item-five" aria-controls="portfolio-item-five" role="tab" data-toggle="tab">
-												<figure><img src="<?php echo $assets['images']; ?>/thumbnail/img-05.jpg" alt="image description"></figure>
-												<div class="tg-img-hover">
-													<div class="tg-displaytable">
-														<div class="tg-displaytablecell">
-															<i class="fa fa-picture-o"></i>
-															<h4>Exterior Project</h4>
-														</div>
-													</div>
-												</div>
-											</a>
-										</div>
-									</div>
-									<div role="presentation"  class="portfolio-item grid-item digging">
-										<div class="product-box">
-											<a href="#portfolio-item-six" aria-controls="portfolio-item-six" role="tab" data-toggle="tab">
-												<figure><img src="<?php echo $assets['images']; ?>/thumbnail/img-06.jpg" alt="image description"></figure>
-												<div class="tg-img-hover">
-													<div class="tg-displaytable">
-														<div class="tg-displaytablecell">
-															<i class="fa fa-picture-o"></i>
-															<h4>Exterior Project</h4>
-														</div>
-													</div>
-												</div>
-											</a>
-										</div>
-									</div>
-									<div role="presentation"  class="portfolio-item grid-item renovation">
-										<div class="product-box">
-											<a href="#portfolio-item-seven" aria-controls="portfolio-item-seven" role="tab" data-toggle="tab">
-												<figure><img src="<?php echo $assets['images']; ?>/thumbnail/img-07.jpg" alt="image description"></figure>
-												<div class="tg-img-hover">
-													<div class="tg-displaytable">
-														<div class="tg-displaytablecell">
-															<i class="fa fa-picture-o"></i>
-															<h4>Exterior Project</h4>
-														</div>
-													</div>
-												</div>
-											</a>
-										</div>
-									</div>
-									<div role="presentation"  class="portfolio-item grid-item renovation">
-										<div class="product-box">
-											<a href="#portfolio-item-eight" aria-controls="portfolio-item-eight" role="tab" data-toggle="tab">
-												<figure><img src="<?php echo $assets['images']; ?>/thumbnail/img-08.jpg" alt="image description"></figure>
-												<div class="tg-img-hover">
-													<div class="tg-displaytable">
-														<div class="tg-displaytablecell">
-															<i class="fa fa-picture-o"></i>
-															<h4>Exterior Project</h4>
-														</div>
-													</div>
-												</div>
-											</a>
-										</div>
+									<div class="tg-description">
+										<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diami nonummy nibh euismod tincidunt.</p>
 									</div>
 								</div>
+								<figure class="tg-reviewer-img"><img src="<?php echo $assets['images']; ?>/thumbnail/img-09.jpg" alt="image description"></figure>
+							</div>
+							<div class="tg-review tg-haslayout">
+								<div class="tg-review-content">
+									<div class="tg-reviewer-head tg-haslayout">
+										<strong class="tg-reviewer-name">Jonathan Smith</strong>
+										<span class="tg-reviewer-link"><a href="#">www.themeforest.net</a></span>
+									</div>
+									<div class="tg-description">
+										<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diami nonummy nibh euismod tincidunt.</p>
+									</div>
+								</div>
+								<figure class="tg-reviewer-img"><img src="<?php echo $assets['images']; ?>/thumbnail/img-10.jpg" alt="image description"></figure>
 							</div>
 						</div>
 					</div>
@@ -354,12 +296,12 @@
 		</div>
 	</section>
 	<!--************************************
-			Portfolio End
+			F.A.Q Reviews End
 	*************************************-->
 	<!--************************************
 			Testimonials Start
 	*************************************-->
-	<section class="tg-main-section tg-haslayout testimonial-image">
+	<section class="tg-main-section tg-haslayout parallax-window" data-appear-top-offset="600" data-parallax="scroll" data-image-src="<?php echo $assets['images']; ?>/parallax-img/bg-parallax-02.jpg">
 		<div class="container">
 			<div class="row">
 				<div class="tg-testimonials tg-haslayout">
@@ -413,186 +355,30 @@
 			Testimonials End
 	*************************************-->
 	<!--************************************
-			Latest Blog Start
+			Brands Start
 	*************************************-->
-	<section class="tg-main-section tg-haslayout bg-white">
+	<section class="tg-main-section tg-haslayout">
 		<div class="container">
 			<div class="row">
-				<div class="col-xs-12">
-					<div class="tg-theme-heading">
-						<span>from our</span>
-						<h2>latest blog</h2>
+				<div class="tg-brands tg-haslayout">
+					<div class="col-sm-3 col-xs-3 width-360">
+						<figure><a href="#"><img src="<?php echo $assets['images']; ?>/brand-01.png" alt="brand name"></a></figure>
 					</div>
-				</div>
-				<div id="tg-posts-slider" class="tg-posts">
-					<div class="item">
-						<div class="tg-post">
-							<div class="tg-post-img">
-								<figure>
-									<a href="#">
-										<img src="<?php echo $assets['images']; ?>/blog/img-01.jpg" alt="image description">
-									</a>
-								</figure>
-								<div class="tg-post-hover">
-									<ul class="tg-post-hover-icons">
-										<li><a href="#"><i class="flaticon-plus79"></i></a></li>
-										<li><a href="#"><i class="flaticon-share55"></i></a></li>
-									</ul>
-								</div>
-							</div>
-							<div class="tg-post-content tg-border-topleft">
-								<h3><a href="#">blog title here</a></h3>
-								<div class="tg-post-meta">
-									<span><a href="#">By Admin / </a></span>
-									<span><a href="#">In Map</a></span>
-								</div>
-								<div class="tg-description">
-									<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.</p>
-								</div>
-							</div>
-						</div>
+					<div class="col-sm-3 col-xs-3 width-360">
+						<figure><a href="#"><img src="<?php echo $assets['images']; ?>/brand-02.png" alt="brand name"></a></figure>
 					</div>
-					<div class="item">
-						<div class="tg-post">
-							<div class="tg-post-img">
-								<figure>
-									<a href="#">
-										<img src="<?php echo $assets['images']; ?>/blog/img-02.jpg" alt="image description">
-									</a>
-								</figure>
-								<div class="tg-post-hover">
-									<ul class="tg-post-hover-icons">
-										<li><a href="#"><i class="flaticon-plus79"></i></a></li>
-										<li><a href="#"><i class="flaticon-share55"></i></a></li>
-									</ul>
-								</div>
-							</div>
-							<div class="tg-post-content tg-border-topleft">
-								<h3><a href="#">blog title here</a></h3>
-								<div class="tg-post-meta">
-									<span><a href="#">By Admin / </a></span>
-									<span><a href="#">In Map</a></span>
-								</div>
-								<div class="tg-description">
-									<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.</p>
-								</div>
-							</div>
-						</div>
+					<div class="col-sm-3 col-xs-3 width-360">
+						<figure><a href="#"><img src="<?php echo $assets['images']; ?>/brand-03.png" alt="brand name"></a></figure>
 					</div>
-					<div class="item">
-						<div class="tg-post">
-							<div class="tg-post-img">
-								<figure>
-									<a href="#">
-										<img src="<?php echo $assets['images']; ?>/blog/img-01.jpg" alt="image description">
-									</a>
-								</figure>
-								<div class="tg-post-hover">
-									<ul class="tg-post-hover-icons">
-										<li><a href="#"><i class="flaticon-plus79"></i></a></li>
-										<li><a href="#"><i class="flaticon-share55"></i></a></li>
-									</ul>
-								</div>
-							</div>
-							<div class="tg-post-content tg-border-topleft">
-								<h3><a href="#">blog title here</a></h3>
-								<div class="tg-post-meta">
-									<span><a href="#">By Admin / </a></span>
-									<span><a href="#">In Map</a></span>
-								</div>
-								<div class="tg-description">
-									<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.</p>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="item">
-						<div class="tg-post">
-							<div class="tg-post-img">
-								<figure>
-									<a href="#">
-										<img src="<?php echo $assets['images']; ?>/blog/img-02.jpg" alt="image description">
-									</a>
-								</figure>
-								<div class="tg-post-hover">
-									<ul class="tg-post-hover-icons">
-										<li><a href="#"><i class="flaticon-plus79"></i></a></li>
-										<li><a href="#"><i class="flaticon-share55"></i></a></li>
-									</ul>
-								</div>
-							</div>
-							<div class="tg-post-content tg-border-topleft">
-								<h3><a href="#">blog title here</a></h3>
-								<div class="tg-post-meta">
-									<span><a href="#">By Admin / </a></span>
-									<span><a href="#">In Map</a></span>
-								</div>
-								<div class="tg-description">
-									<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.</p>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="item">
-						<div class="tg-post">
-							<div class="tg-post-img">
-								<figure>
-									<a href="#">
-										<img src="<?php echo $assets['images']; ?>/blog/img-01.jpg" alt="image description">
-									</a>
-								</figure>
-								<div class="tg-post-hover">
-									<ul class="tg-post-hover-icons">
-										<li><a href="#"><i class="flaticon-plus79"></i></a></li>
-										<li><a href="#"><i class="flaticon-share55"></i></a></li>
-									</ul>
-								</div>
-							</div>
-							<div class="tg-post-content tg-border-topleft">
-								<h3><a href="#">blog title here</a></h3>
-								<div class="tg-post-meta">
-									<span><a href="#">By Admin / </a></span>
-									<span><a href="#">In Map</a></span>
-								</div>
-								<div class="tg-description">
-									<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.</p>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="item">
-						<div class="tg-post">
-							<div class="tg-post-img">
-								<figure>
-									<a href="#">
-										<img src="<?php echo $assets['images']; ?>/blog/img-02.jpg" alt="image description">
-									</a>
-								</figure>
-								<div class="tg-post-hover">
-									<ul class="tg-post-hover-icons">
-										<li><a href="#"><i class="flaticon-plus79"></i></a></li>
-										<li><a href="#"><i class="flaticon-share55"></i></a></li>
-									</ul>
-								</div>
-							</div>
-							<div class="tg-post-content tg-border-topleft">
-								<h3><a href="#">blog title here</a></h3>
-								<div class="tg-post-meta">
-									<span><a href="#">By Admin / </a></span>
-									<span><a href="#">In Map</a></span>
-								</div>
-								<div class="tg-description">
-									<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.</p>
-								</div>
-							</div>
-						</div>
+					<div class="col-sm-3 col-xs-3 width-360">
+						<figure><a href="#"><img src="<?php echo $assets['images']; ?>/brand-04.png" alt="brand name"></a></figure>
 					</div>
 				</div>
 			</div>
 		</div>
 	</section>
 	<!--************************************
-			Latest Blog End
+			Brands End
 	*************************************-->
 </main>
 <!--************************************
