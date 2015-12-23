@@ -49,13 +49,14 @@
 					</button>
 				</div>
 				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					<?php $last = strtolower(end($this->uri->segment_array())); $cls_activated = 'current-menu-item'; ?>
 					<ul>
-						<li class="current-menu-item"><a href="<?php echo site_url('/'); ?>">Home</a></li>
-						<li><a href="<?php echo site_url('/about'); ?>">About</a></li>
-						<li><a href="<?php echo site_url('/service'); ?>">Services</a></li>
-						<li><a href="<?php echo site_url('/project'); ?>">Projects</a></li>
-						<li><a href="<?php echo site_url('/our-work'); ?>">Our Works</a></li>
-						<li><a href="<?php echo site_url('/contact'); ?>">Contact</a></li>
+						<li class="<?php echo (!in_array($last, array('about', 'service', 'project', 'our-work', 'contact')) ? $cls_activated : ''); ?>"><a href="<?php echo site_url('/'); ?>">Home</a></li>
+						<li class="<?php echo ($last == 'about' ? $cls_activated : ''); ?>"><a href="<?php echo site_url('/about'); ?>">About</a></li>
+						<li class="<?php echo ($last == 'service' ? $cls_activated : ''); ?>"><a href="<?php echo site_url('/service'); ?>">Services</a></li>
+						<li class="<?php echo ($last == 'project' ? $cls_activated : ''); ?>"><a href="<?php echo site_url('/project'); ?>">Projects</a></li>
+						<li class="<?php echo ($last == 'our-work' ? $cls_activated : ''); ?>"><a href="<?php echo site_url('/our-work'); ?>">Our Works</a></li>
+						<li class="<?php echo ($last == 'contact' ? $cls_activated : ''); ?>"><a href="<?php echo site_url('/contact'); ?>">Contact</a></li>
 					</ul>
 				</div>
 			</nav>
