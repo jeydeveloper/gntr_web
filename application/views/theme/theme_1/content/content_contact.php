@@ -13,17 +13,17 @@
 				<div class="contact-info tg-haslayout">
 					<div class="col-md-4 col-sm-4 col-xs-4">
 						<div class="col-info">
-							<p><i class="fa fa-map-marker"></i> St. Petersburg, 9 Pushkin, London</p>
+							<p><i class="fa fa-map-marker"></i> Jl.PLTGU Muara Tawar RT/RW. 002/013, Desa Pantaimakmur, Kec.Tarumajaya, Bekasi 17212</p>
 						</div>
 					</div>
 					<div class="col-md-4 col-sm-4 col-xs-4">
 						<div class="col-info">
-							<p><i class="fa fa-phone"></i> Call Us: +44 123 456 789</p>
+							<p><i class="fa fa-phone"></i> Call Us: (021) 96414040. 081210135477</p>
 						</div>
 					</div>
 					<div class="col-md-4 col-sm-4 col-xs-4">
 						<div class="col-info">
-							<p><i class="fa fa-envelope"></i> <a href="#">Email Us: info@domain.com</a></p>
+							<p><i class="fa fa-envelope"></i> <a href="#">Email Us: putrabaharimandiri@gmail.com</a></p>
 						</div>
 					</div>
 				</div>
