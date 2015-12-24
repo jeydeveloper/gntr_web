@@ -70,20 +70,19 @@
 								<ul>
 									<li>
 										<span>Address:</span>
-										<span>795 South Park Avenue, Door 6 Wonderland, CA 94107, Australia</span>
+										<span>Jl.PLTGU Muara Tawar RT/RW. 002/013, Desa Pantaimakmur, Kec.Tarumajaya, Bekasi 17212</span>
 									</li>
 									<li>
 										<span>Phone:</span>
 										<span>
-											<i>+440 875369208 - Office</i>
-											<i>+440 353363114 - Fax</i>
+											<i>(021) 96414040. 081210135477 - Office</i>
+											<i>???????? - Fax</i>
 										</span>
 									</li>
 									<li>
 										<span>Email:</span>
 										<span>
-											<i><a href="support@sitename.com">support@sitename.com</a></i>
-											<i><a href="info@sitename.com">info@sitename.com</a></i>
+											<i><a href="putrabaharimandiri@gmail.com">putrabaharimandiri@gmail.com</a></i>
 										</span>
 									</li>
 								</ul>
