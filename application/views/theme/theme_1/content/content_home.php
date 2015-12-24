@@ -75,7 +75,7 @@
 									<div class="tg-displaytable">
 										<div class="tg-displaytablecell">
 											<span class="flaticon-shovel23"></span>
-											<h3>Building</h3>
+											<h3>Arsitektual</h3>
 											<div class="tg-description">
 												<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.</p>
 											</div>
@@ -91,7 +91,7 @@
 									<div class="tg-displaytable">
 										<div class="tg-displaytablecell">
 											<span class="flaticon-star182"></span>
-											<h3>Renovation</h3>
+											<h3>Sipil</h3>
 											<div class="tg-description">
 												<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.</p>
 											</div>
@@ -107,7 +107,23 @@
 									<div class="tg-displaytable">
 										<div class="tg-displaytablecell">
 											<span class="flaticon-worker5"></span>
-											<h3>Digging</h3>
+											<h3>Mekanikal</h3>
+											<div class="tg-description">
+												<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.</p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="tg-service tg-haslayout">
+								<figure class="tg-sercice-img">
+									<img src="<?php echo $assets['images']; ?>/img-04.jpg" alt="image description">
+								</figure>
+								<div class="tg-border-topleft tg-haslayout">
+									<div class="tg-displaytable">
+										<div class="tg-displaytablecell">
+											<span class="flaticon-worker5"></span>
+											<h3>Elektrikal</h3>
 											<div class="tg-description">
 												<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.</p>
 											</div>
@@ -123,7 +139,23 @@
 									<div class="tg-displaytable">
 										<div class="tg-displaytablecell">
 											<span class="flaticon-interiordesign"></span>
-											<h3>Interior</h3>
+											<h3>Pengadaan Barang & Jasa</h3>
+											<div class="tg-description">
+												<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.</p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="tg-service tg-haslayout">
+								<figure class="tg-sercice-img">
+									<img src="<?php echo $assets['images']; ?>/img-04.jpg" alt="image description">
+								</figure>
+								<div class="tg-border-topleft tg-haslayout">
+									<div class="tg-displaytable">
+										<div class="tg-displaytablecell">
+											<span class="flaticon-worker5"></span>
+											<h3>Outsourcing</h3>
 											<div class="tg-description">
 												<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.</p>
 											</div>
