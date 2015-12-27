@@ -178,7 +178,8 @@ form p span i {
 option { padding: 5px 15px; }
 li {
 	line-height: 28px;
-	list-style: disc inside none;
+	list-style: inherit;
+	margin-left: 15px;
 }
 ul ul { margin-left: 20px; }
 ol {

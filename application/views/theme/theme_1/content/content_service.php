@@ -10,8 +10,8 @@
 			<div class="row">
 			<div class="col-xs-12">
 				<div class="tg-theme-heading">
-					<span>WE ARE EXPERT IN</span>
-					<h2>SERVICES</h2>
+					<span>JASA PELAYANAN</span>
+					<h2>PELAYANAN KAMI</h2>
 				</div>
 			</div>
 			<div class="tg-aboutus-section">
@@ -21,9 +21,11 @@
 				<div class="col-md-6 col-sm-12 col-xs-12">
 					<div class="tg-aboutus">
 						<div class="tg-description">
-							<p>Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Claritas est etiam processus dynamicus, qui sequitur. Nam liber tempor cum soluta nobis eleifend option.</p>
-							<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure .</p>
-							<p>Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima.</p>
+							<p>Dengan pemgalaman dan komitmen kami dalam pengembangan bisnis kami sebagai perusahaan penyedia jasa pekerja , Alat perlengkapan kontruksi, mekanikal, elektrikal, jasa konsultan bisnis dan manajemen.</p>
+							<p>Kami dapat memberikan solusi dalam permasalahan pengelolaan sumber daya manusia serta peningkatan hasil kerja dan efisiensi produktifitas.</p> 
+							<p>PBM telah membuktikan kemampuan berpartisipasi dalam pekerjaan  tenaga kerja operator produksi, distribusi, transfortasi perdagangan matrial alam dll.</p>
+							<p>Dukungan dari perusahaan kami membuka jaringan team work seluas-luasnya dengan memanfaatkan berbagai komunitas dilingkungan industri agara dapat sinergi dengan penduduk lokal,  mengacu dengan undang-ungang otonomi daerah.</p>
+							<p>Pengembangan dalam team oprasional kami yang selalu mengikuti pelatihan-pelatihan kerja agar mempunyai dedikasi dan motivasi yang tinggi, serta menerapkan sistem yang terus kami kembangkan sehingga menghasilkan karyawan-karyawan yang berkomitmen tinggi dalam menjalankan pekerjaannya. Perhatian kami pun tidak terlepas dari kepuasan para mitra kerja dilakukan disetiap bidang perusahaan kami.</p>
 						</div>
 						<a class="tg-theme-btn" href="#">Meet Our Team</a>
 					</div>
@@ -261,8 +263,8 @@
 				<div class="col-sm-6 col-xs-12">
 					<div class="tg-haslayout tg-reviews">
 						<div class="tg-theme-heading">
-							<span>love to share</span>
-							<h2>reviews</h2>
+							<span>keuntungan</span>
+							<h2>mitra kerja</h2>
 						</div>
 						<div id="tg-review-slider" class="tg-review-slider tg-haslayout">
 							<div class="tg-review tg-haslayout">
@@ -272,12 +274,18 @@
 										<span class="tg-reviewer-link"><a href="#">www.themeforest.net</a></span>
 									</div>
 									<div class="tg-description">
-										<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diami nonummy nibh euismod tincidunt.</p>
+										<ul>
+											<li>PBM Memberikan tenaga kerja yang terlatih  termotivasi disetiap bidangnya dan berorientasi pada hasil dan kualitas kerja</li>
+											<li>PBM memenuhi disetiap kebutuhan tenaga kerja sesuai kebutuhan dari mitra kerja</li>
+											<li>Team supervisor yang ditempatkan disetiap bidang dan keahliannya masing-masing dan sudah mempunyai daya kemampuan dalam menyelesaikan persoalan-persoalan disetiap pekerjaannya</li>
+											<li>Manajemen control yang selalu akan diberikan untuk meminimalisir permasalahan-permaslahan dalam pencegahaannya</li>
+											<li>PBM selalu membina hubungan kerja yang baik bertanggung jawan dan meciptakan suasan yang kondusif agar dapat fokus pada produktifitas pekerjaannya</li>
+										</ul>
 									</div>
 								</div>
-								<figure class="tg-reviewer-img"><img src="<?php echo $assets['images']; ?>/thumbnail/img-09.jpg" alt="image description"></figure>
+								<!-- <figure class="tg-reviewer-img"><img src="<?php echo $assets['images']; ?>/thumbnail/img-09.jpg" alt="image description"></figure> -->
 							</div>
-							<div class="tg-review tg-haslayout">
+							<!-- <div class="tg-review tg-haslayout">
 								<div class="tg-review-content">
 									<div class="tg-reviewer-head tg-haslayout">
 										<strong class="tg-reviewer-name">Jonathan Smith</strong>
@@ -288,7 +296,7 @@
 									</div>
 								</div>
 								<figure class="tg-reviewer-img"><img src="<?php echo $assets['images']; ?>/thumbnail/img-10.jpg" alt="image description"></figure>
-							</div>
+							</div> -->
 						</div>
 					</div>
 				</div>
