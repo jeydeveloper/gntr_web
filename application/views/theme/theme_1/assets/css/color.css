@@ -34,7 +34,7 @@ a:hover, a:focus, a:active,
 .tg-widget.widget-accordions ul li h4.actives:after,
 .tg-member-hover-icons a:hover i,
 .tg-metadata li + li:after,
-.social ul.tg-social-icon li a:hover i{ color: #ffcc33;}
+.social ul.tg-social-icon li a:hover i{ color: #0012FF;}
 /* =============================================
 			Theme Background Color
 ============================================= */
@@ -102,5 +102,5 @@ body.version-two .current-menu-item a,
 .home-slider .owl-controls .owl-pagination .owl-page.active,
 .home-slider .owl-controls .owl-pagination .owl-page:hover,
 .gn-menu-main li .gn-menu li a:hover,
-.tg-widget.widget-accordions ul li h4.actives:after{ border-color: #ffcc33;}
-.home-slider .owl-controls .owl-pagination .owl-page{ border-top-color: #ffcc33;}
+.tg-widget.widget-accordions ul li h4.actives:after{ border-color: #E50000;}
+.home-slider .owl-controls .owl-pagination .owl-page{ border-top-color: #0012FF;}

@@ -58,9 +58,9 @@ h3 a,
 h4 a,
 h5 a,
 h6 a { color: #272727;}
-p a{color:#ffcc33;}
+p a{color:#0012FF;}
 p a:hover {
-	color: #ffcc33;
+	color: #0012FF;
 	text-decoration:underline;
 }
 p {
@@ -69,13 +69,13 @@ p {
 	margin-bottom: 10px;
 }
 a {
-	color: #ffcc33;
+	color: #0012FF;
 	text-decoration: none;
 }
 a:hover, a:focus, a:active {
 	outline: none;
 	text-decoration: none;
-	color:#ffcc33;
+	color:#0012FF;
 }
 ul { margin-bottom: 0; }
 figure {
@@ -538,7 +538,7 @@ address { font-style: italic; }
 .tg-pagination li.tg-prev a i,
 .tg-pagination li.tg-next a i{font-size:17px;}
 .new{
-	border-bottom: 100px solid #ffcc33;
+	border-bottom: 100px solid #0012FF;
 	border-left: 50px solid transparent;
 	border-right: 50px solid transparent;
 	height: 0;
