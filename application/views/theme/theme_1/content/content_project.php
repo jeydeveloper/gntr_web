@@ -32,7 +32,7 @@
 								<div class="col-md-6 col-sm-12 col-xs-12 pull-right">
 									<div class="row">
 										<div class="tg-portfolio-img">
-											<figure><img src="<?php echo $assets['images']; ?>/portfolio/img-10.jpg" alt="image description"></figure>
+											<figure><img src="<?php echo $assets['images']; ?>/ssp.gif" alt="image description"></figure>
 											<div class="tg-img-hover">
 												<ul class="tg-member-hover-icons">
 													<li><a href="#"><i class="flaticon-plus79"></i></a></li>
@@ -46,13 +46,18 @@
 									<div class="row">
 										<div class="tg-border-topleft tg-portfolio-content">
 											<div class="tg-theme-heading">
-												<span>Graphic Design, Photoshop</span>
-												<h2><a href="#">Lorem ipsum dolor sit amet, consectetuer elit</a></h2>
+												<!-- <span>Graphic Design, Photoshop</span> -->
+												<h2><a href="#">PT SSP General Engineering & Construction</a></h2>
 											</div>
 											<div class="tg-description">
-												<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis.</p>
+												<ul>
+													<li>Ware House</li>
+													<li>Pagar Precast Beton</li>
+													<li>Udit/Saluran</li>
+													<li>Supplier Matrial Alam</li>
+												</ul>
 											</div>
-											<a class="tg-viewmore-btn" href="#">View More »</a>
+											<!-- <a class="tg-viewmore-btn" href="#">View More »</a> -->
 										</div>
 									</div>
 								</div>
@@ -63,7 +68,7 @@
 								<div class="col-md-6 col-sm-12 col-xs-12 pull-right">
 									<div class="row">
 										<div class="tg-portfolio-img">
-											<figure><img src="<?php echo $assets['images']; ?>/portfolio/img-11.jpg" alt="image description"></figure>
+											<figure><img src="<?php echo $assets['images']; ?>/andalan.png" alt="image description"></figure>
 											<div class="tg-img-hover">
 												<ul class="tg-member-hover-icons">
 													<li><a href="#"><i class="flaticon-plus79"></i></a></li>
@@ -77,13 +82,13 @@
 									<div class="row">
 										<div class="tg-border-topleft tg-portfolio-content">
 											<div class="tg-theme-heading">
-												<span>Graphic Design, Photoshop</span>
-												<h2><a href="#">Lorem ipsum dolor sit amet, consectetuer elit</a></h2>
+												<!-- <span>Graphic Design, Photoshop</span> -->
+												<h2><a href="#">PT. Andalan Furnindo</a></h2>
 											</div>
 											<div class="tg-description">
-												<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis.</p>
+												<p>Jasa tenaga kerja operator forklift.</p>
 											</div>
-											<a class="tg-viewmore-btn" href="#">View More »</a>
+											<!-- <a class="tg-viewmore-btn" href="#">View More »</a> -->
 										</div>
 									</div>
 								</div>
@@ -94,7 +99,7 @@
 								<div class="col-md-6 col-sm-12 col-xs-12 pull-right">
 									<div class="row">
 										<div class="tg-portfolio-img">
-											<figure><img src="<?php echo $assets['images']; ?>/portfolio/img-09.jpg" alt="image description"></figure>
+											<figure><img src="<?php echo $assets['images']; ?>/yeos.jpeg" alt="image description"></figure>
 											<div class="tg-img-hover">
 												<ul class="tg-member-hover-icons">
 													<li><a href="#"><i class="flaticon-plus79"></i></a></li>
@@ -108,13 +113,16 @@
 									<div class="row">
 										<div class="tg-border-topleft tg-portfolio-content">
 											<div class="tg-theme-heading">
-												<span>Graphic Design, Photoshop</span>
-												<h2><a href="#">Lorem ipsum dolor sit amet, consectetuer elit</a></h2>
+												<!-- <span>Graphic Design, Photoshop</span> -->
+												<h2><a href="#">Yeo's Indonesia</a></h2>
 											</div>
 											<div class="tg-description">
-												<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis.</p>
+												<ul>
+													<li>Penyewaan Pallet</li>
+													<li>Transportasi Logistik</li>
+												</ul>
 											</div>
-											<a class="tg-viewmore-btn" href="#">View More »</a>
+											<!-- <a class="tg-viewmore-btn" href="#">View More »</a> -->
 										</div>
 									</div>
 								</div>
@@ -125,7 +133,7 @@
 								<div class="col-md-6 col-sm-12 col-xs-12 pull-right">
 									<div class="row">
 										<div class="tg-portfolio-img">
-											<figure><img src="<?php echo $assets['images']; ?>/portfolio/img-12.jpg" alt="image description"></figure>
+											<figure><img src="<?php echo $assets['images']; ?>/samsung.gif" alt="image description"></figure>
 											<div class="tg-img-hover">
 												<ul class="tg-member-hover-icons">
 													<li><a href="#"><i class="flaticon-plus79"></i></a></li>
@@ -139,13 +147,16 @@
 									<div class="row">
 										<div class="tg-border-topleft tg-portfolio-content">
 											<div class="tg-theme-heading">
-												<span>Graphic Design, Photoshop</span>
-												<h2><a href="#">Lorem ipsum dolor sit amet, consectetuer elit</a></h2>
+												<!-- <span>Graphic Design, Photoshop</span> -->
+												<h2><a href="#">PT. Samsung Indonesia</a></h2>
 											</div>
 											<div class="tg-description">
-												<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis.</p>
+												<ul>
+													<li>Pembangunan pergudangan elektronik / Warehouse</li>
+													<li>Supplier Matrial Alam</li>
+												</ul>
 											</div>
-											<a class="tg-viewmore-btn" href="#">View More »</a>
+											<!-- <a class="tg-viewmore-btn" href="#">View More »</a> -->
 										</div>
 									</div>
 								</div>
@@ -156,7 +167,7 @@
 								<div class="col-md-6 col-sm-12 col-xs-12 pull-right">
 									<div class="row">
 										<div class="tg-portfolio-img">
-											<figure><img src="<?php echo $assets['images']; ?>/portfolio/img-13.jpg" alt="image description"></figure>
+											<figure><img src="<?php echo $assets['images']; ?>/jgc.jpg" alt="image description"></figure>
 											<div class="tg-img-hover">
 												<ul class="tg-member-hover-icons">
 													<li><a href="#"><i class="flaticon-plus79"></i></a></li>
@@ -170,13 +181,16 @@
 									<div class="row">
 										<div class="tg-border-topleft tg-portfolio-content">
 											<div class="tg-theme-heading">
-												<span>Graphic Design, Photoshop</span>
-												<h2><a href="#">Lorem ipsum dolor sit amet, consectetuer elit</a></h2>
+												<!-- <span>Graphic Design, Photoshop</span> -->
+												<h2><a href="#">PT. JGC Indonesia</a></h2>
 											</div>
 											<div class="tg-description">
-												<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis.</p>
+												<ul>
+													<li>Pengadaan Barang dan Jasa</li>
+													<li>Sewa alat berat</li>
+												</ul>
 											</div>
-											<a class="tg-viewmore-btn" href="#">View More »</a>
+											<!-- <a class="tg-viewmore-btn" href="#">View More »</a> -->
 										</div>
 									</div>
 								</div>
@@ -219,4 +233,4 @@
 </main>
 <!--************************************
 		Main End
-*************************************-->
+*************************************
