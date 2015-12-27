@@ -45,35 +45,49 @@
 				<div class="col-md-6 col-sm-12 col-xs-12">
 					<div class="tg-haslayout tg-skills">
 						<div class="tg-theme-heading">
-							<span>WE ARE EXPERT IN</span>
-							<h2>SERVICES</h2>
+							<span>KAMI BERPENGALAMAN DALAM HAL</span>
+							<h2>PELAYANAN</h2>
 						</div>
 						<div id="our-skill" class="skill-group">
 							<div class="skill">
-								<span class="skill-name">Photoshop</span>
+								<span class="skill-name">Arsitektual</span>
 								<div class="skill-holder" data-percent="95%">
 									<span>95%</span>
 									<div class="skill-bar"></div>
 								</div>
 							</div>
 							<div class="skill">
-								<span class="skill-name">After Effect</span>
+								<span class="skill-name">Sipil</span>
 								<div class="skill-holder" data-percent="85%">
 									<span>85%</span>
 									<div class="skill-bar"></div>
 								</div>
 							</div>
 							<div class="skill">
-								<span class="skill-name">Illustrator</span>
+								<span class="skill-name">Mekanikal</span>
 								<div class="skill-holder" data-percent="89%">
 									<span>89%</span>
 									<div class="skill-bar"></div>
 								</div>
 							</div>
 							<div class="skill">
-								<span class="skill-name">Flash</span>
-								<div class="skill-holder" data-percent="60%">
-									<span>60%</span>
+								<span class="skill-name">Elektrikal</span>
+								<div class="skill-holder" data-percent="80%">
+									<span>80%</span>
+									<div class="skill-bar"></div>
+								</div>
+							</div>
+							<div class="skill">
+								<span class="skill-name">Pengadaan Barang & Jasa</span>
+								<div class="skill-holder" data-percent="90%">
+									<span>90%</span>
+									<div class="skill-bar"></div>
+								</div>
+							</div>
+							<div class="skill">
+								<span class="skill-name">Outsourcing</span>
+								<div class="skill-holder" data-percent="95%">
+									<span>95%</span>
 									<div class="skill-bar"></div>
 								</div>
 							</div>
@@ -83,33 +97,37 @@
 				<div class="col-md-6 col-sm-12 col-xs-12">
 					<div class="tg-haslayout tg-reviews">
 						<div class="tg-theme-heading">
-							<span>love to share</span>
-							<h2>reviews</h2>
+							<span>VISI & MISI</span>
+							<h2>PERUSAHAAN</h2>
 						</div>
 						<div id="tg-review-slider" class="tg-review-slider tg-haslayout">
 							<div class="tg-review tg-haslayout">
 								<div class="tg-review-content">
 									<div class="tg-reviewer-head tg-haslayout">
-										<strong class="tg-reviewer-name">Jonathan Smith</strong>
-										<span class="tg-reviewer-link"><a href="#">www.themeforest.net</a></span>
+										<strong class="tg-reviewer-name">VISI</strong>
+										<!-- <span class="tg-reviewer-link"><a href="#">www.themeforest.net</a></span> -->
 									</div>
 									<div class="tg-description">
-										<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diami nonummy nibh euismod tincidunt.</p>
+										<p>Menjadi perusahaan berkomitmen tinggi, pelayanan jasa pekerja dan meningkatkan mutu kualitas di Indonesia</p>
 									</div>
 								</div>
-								<figure class="tg-reviewer-img"><img src="<?php echo $assets['images']; ?>/thumbnail/img-09.jpg" alt="image description"></figure>
+								<!-- <figure class="tg-reviewer-img"><img src="<?php echo $assets['images']; ?>/thumbnail/img-09.jpg" alt="image description"></figure> -->
 							</div>
 							<div class="tg-review tg-haslayout">
 								<div class="tg-review-content">
 									<div class="tg-reviewer-head tg-haslayout">
-										<strong class="tg-reviewer-name">Jonathan Smith</strong>
-										<span class="tg-reviewer-link"><a href="#">www.themeforest.net</a></span>
+										<strong class="tg-reviewer-name">MISI</strong>
+										<!-- <span class="tg-reviewer-link"><a href="#">www.themeforest.net</a></span> -->
 									</div>
 									<div class="tg-description">
-										<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diami nonummy nibh euismod tincidunt.</p>
+										<ul>
+											<li>Memberikan pelayanan, mutu dan kepuasan yang terbaik kepada mitra kerja</li>
+											<li>Membangun hubungan bekerjasama dan menciptakan efisiensi dalam perusahaan</li>
+											<li>Fokus dalam memberikan nilai tambah kepada peningkatan kualitas hubungan kerjasama yang berkelanjutan, agar serta merta memberikan keuntungan dalam mitra kerja PBM</li>
+										</ul>
 									</div>
 								</div>
-								<figure class="tg-reviewer-img"><img src="<?php echo $assets['images']; ?>/thumbnail/img-10.jpg" alt="image description"></figure>
+								<!-- <figure class="tg-reviewer-img"><img src="<?php echo $assets['images']; ?>/thumbnail/img-10.jpg" alt="image description"></figure> -->
 							</div>
 						</div>
 					</div>
