@@ -35,7 +35,7 @@
 	<div class="container">
 		<strong class="logo">
 			<a href="index.html">
-				<img src="<?php echo $assets['images']; ?>/logo.png" alt="Constructioner">
+				<img src="<?php echo $assets['images']; ?>/logo4.png" alt="Constructioner">
 			</a>
 		</strong>
 		<div class="navigation-area">
