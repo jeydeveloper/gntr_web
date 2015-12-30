@@ -18,10 +18,12 @@
 					<div class="col-sm-8">
 						<ul id="gallery-cats" class="gallery-cats option-set haslayout">
 							<li class="select"><a href="#" data-filter="*">All</a></li>
-							<li><a href="#" data-filter=".construction">Construction</a></li>
-							<li><a href="#" data-filter=".digging">Digging</a></li>
-							<li><a href="#" data-filter=".renovation">Renovation</a></li>
-							<li><a href="#" data-filter=".interior">Interior</a></li>
+							<li><a href="#" data-filter=".construction">Arsitektual</a></li>
+							<li><a href="#" data-filter=".digging">Sipil</a></li>
+							<li><a href="#" data-filter=".renovation">Mekanikal</a></li>
+							<li><a href="#" data-filter=".interior">Elektrikal</a></li>
+							<li><a href="#" data-filter=".interior">Pengadaan Barang & Jasa</a></li>
+							<li><a href="#" data-filter=".interior">Outsourcing</a></li>
 						</ul>
 					</div>
 				</div>
