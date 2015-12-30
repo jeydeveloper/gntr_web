@@ -40,7 +40,7 @@
 	<!--************************************
 			Member Skills Start
 	*************************************-->
-	<section class="tg-main-section tg-haslayout tg-skillreview-bg">
+	<!-- <section class="tg-main-section tg-haslayout tg-skillreview-bg">
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-12">
@@ -195,7 +195,7 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 	<!--************************************
 			Member Skills End
 	*************************************-->
