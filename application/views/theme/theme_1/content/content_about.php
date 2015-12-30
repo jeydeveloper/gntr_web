@@ -26,7 +26,7 @@
 							<p>Komitmen kami dalam penyediaan jasa properti dan infrastrktur adalah memberikan kualitas pelayanan yang prima kepada setiap mitra kerja  maupun pelanggan   dengan tingkat kesiapan dan ketersediaan (availibity) peralatan yang tinggi, profesionalisme sumberdaya manusia yang mendukung serta pencapaian target  secara tepat waktu, dalam setiap melakukan  kegiatan usaha, kami senantiasa mendasarkan pada sikap saling percaya, saling mendukung serta mengembangkan sikap profesionalisme untuk mendapatkan kepercayaan dari mitra kerja maupun pelanggan.</p>
 							<p>Kami berharap agar setiap harapan dan tujuan klien mengenai obyek yang akan dikerjakan sehingga dapat kami wujudkan. Untuk itu pemahaman atas kebutuhan dan harapan klien adalah faktor utama yang kami jadikan pertimbangan dalam setiap pelaksanaan dan pengerjaan proyek kami, akhirnya kami merasa sangat merespon apabila dapat ikut berpartisipasi dalam proyek-proyek yang sesuai dengan bidang keahlian kami.</p>
 						</div>
-						<a class="tg-theme-btn" href="#">Meet Our Team</a>
+						<a class="tg-theme-btn" href="#">Download E-Brochures</a>
 					</div>
 				</div>
 			</div>
