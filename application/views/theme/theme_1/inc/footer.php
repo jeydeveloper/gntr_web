@@ -6,7 +6,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="tg-cols">
-					<div class="col-sm-4 tg-colfirst-bgcolor">
+					<div class="col-sm-6 tg-colfirst-bgcolor">
 						<div class="tg-col">
 							<div class="tg-theme-heading">
 								<h3>About Us</h3>
@@ -28,7 +28,7 @@
 							</ul>
 						</div>
 					</div>
-					<div class="col-sm-4 tg-colmid-bgcolor">
+					<!-- <div class="col-sm-4 tg-colmid-bgcolor">
 						<div class="tg-col">
 							<div class="tg-theme-heading">
 								<h3>Latest news</h3>
@@ -60,8 +60,8 @@
 								</ul>
 							</div>
 						</div>
-					</div>
-					<div class="col-sm-4 tg-collast-bgcolor">
+					</div> -->
+					<div class="col-sm-6 tg-collast-bgcolor">
 						<div class="tg-col">
 							<div class="tg-theme-heading">
 								<h3>get in touch</h3>
