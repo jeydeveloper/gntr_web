@@ -51,8 +51,8 @@
 			<div class="row">
 				<div class="col-xs-12">
 					<div class="tg-theme-heading">
-						<span>WE ARE EXPERT IN</span>
-						<h2>SERVICES</h2>
+						<span>KAMI PROFESSIONAL DALAM</span>
+						<h2>PELAYANAN</h2>
 					</div>
 				</div>
 				<div class="col-xs-12">
@@ -214,8 +214,8 @@
 				<div class="tg-portfolio">
 					<div class="col-sm-4">
 						<div class="tg-theme-heading">
-							<span>Some of our</span>
-							<h2>Portfolio</h2>
+							<span>GALERI</span>
+							<h2>PROYEK</h2>
 						</div>
 						<div class="tg-service-img tg-haslayout">
 							<div class="tab-content tg-img-border">
@@ -250,10 +250,12 @@
 						<div class="portfolio masnory tg-haslayout">
 							<ul id="gallery-cats" class="gallery-cats option-set haslayout">
 								<li class="select"><a href="#" data-filter="*">All</a></li>
-								<li><a href="#" data-filter=".construction">Construction</a></li>
-								<li><a href="#" data-filter=".digging">Digging</a></li>
-								<li><a href="#" data-filter=".renovation">Renovation</a></li>
-								<li><a href="#" data-filter=".interior">Interior</a></li>
+								<li><a href="#" data-filter=".construction">Arsitektual</a></li>
+								<li><a href="#" data-filter=".digging">Sipil</a></li>
+								<li><a href="#" data-filter=".renovation">Mekanikal</a></li>
+								<li><a href="#" data-filter=".interior">Elektrikal</a></li>
+								<li><a href="#" data-filter=".interior">Pengadaan Barang & Jasa</a></li>
+								<li><a href="#" data-filter=".interior">Outsourcing</a></li>
 							</ul>
 							<div class="row">
 							<div class="portfolio-content tg-haslayout portfolio-image grid" role="tablist">
