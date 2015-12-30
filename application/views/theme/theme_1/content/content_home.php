@@ -74,7 +74,7 @@
 								<div class="tg-border-topleft tg-haslayout">
 									<div class="tg-displaytable">
 										<div class="tg-displaytablecell">
-											<span class="flaticon-shovel23"></span>
+											<span class="flaticon-house112"></span>
 											<h3>Arsitektual</h3>
 											<div class="tg-description">
 												<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.</p>
@@ -90,7 +90,7 @@
 								<div class="tg-border-topleft tg-haslayout">
 									<div class="tg-displaytable">
 										<div class="tg-displaytablecell">
-											<span class="flaticon-star182"></span>
+											<span class="flaticon-view28"></span>
 											<h3>Sipil</h3>
 											<div class="tg-description">
 												<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.</p>
@@ -106,7 +106,7 @@
 								<div class="tg-border-topleft tg-haslayout">
 									<div class="tg-displaytable">
 										<div class="tg-displaytablecell">
-											<span class="flaticon-worker5"></span>
+											<span class="flaticon-labor"></span>
 											<h3>Mekanikal</h3>
 											<div class="tg-description">
 												<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.</p>
@@ -122,7 +122,7 @@
 								<div class="tg-border-topleft tg-haslayout">
 									<div class="tg-displaytable">
 										<div class="tg-displaytablecell">
-											<span class="flaticon-worker5"></span>
+											<span class="flaticon-share55"></span>
 											<h3>Elektrikal</h3>
 											<div class="tg-description">
 												<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.</p>
