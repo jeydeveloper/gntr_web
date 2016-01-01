@@ -53,14 +53,14 @@
 					<ul>
 						<li class="<?php echo (!in_array($last, array('about', 'service', 'project', 'our-work', 'contact')) ? $cls_activated : ''); ?>"><a href="<?php echo site_url('/'); ?>">Home</a></li>
 						<li class="<?php echo ($last == 'about' ? $cls_activated : ''); ?>"><a href="<?php echo site_url('/about'); ?>">About</a></li>
-						<li class="<?php echo ($last == 'service' ? $cls_activated : ''); ?>"><a href="<?php echo site_url('/service'); ?>">Services</a>
+						<li class="<?php echo ($last == 'service' ? $cls_activated : ''); ?>"><a href="#">Services</a>
 							<ul>
-								<li><a href="virtual-construct.html">Arsitektual</a></li>
-								<li><a href="virtual-construct-firststep.html">Sipil</a></li>
-								<li><a href="virtual-construct-secondstep.html">Mekanikal</a></li>
-								<li><a href="virtual-construct-secondstep.html">Elektrikal</a></li>
-								<li><a href="virtual-construct-secondstep.html">Pengadaan Barang & Jasa</a></li>
-								<li><a href="virtual-construct-secondstep.html">Outsourcing</a></li>
+								<li><a href="<?php echo site_url('/arsitektual'); ?>">Arsitektual</a></li>
+								<li><a href="<?php echo site_url('/sipil'); ?>">Sipil</a></li>
+								<li><a href="<?php echo site_url('/mekanikal'); ?>">Mekanikal</a></li>
+								<li><a href="<?php echo site_url('/elektrikal'); ?>">Elektrikal</a></li>
+								<li><a href="<?php echo site_url('/procurement'); ?>">Pengadaan Barang & Jasa</a></li>
+								<li><a href="<?php echo site_url('/outsourcing'); ?>">Outsourcing</a></li>
 							</ul>
 						</li>
 						<li class="<?php echo ($last == 'project' ? $cls_activated : ''); ?>"><a href="<?php echo site_url('/project'); ?>">Projects</a></li>

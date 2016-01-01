@@ -45,6 +45,12 @@ $route['service'] 	= "frontend_service/service";
 $route['project'] 	= "frontend_project/project";
 $route['our-work'] 	= "frontend_ourwork/ourwork";
 $route['contact'] 	= "frontend_contact/contact";
+$route['arsitektual'] 	= "frontend_arsitektual/arsitektual";
+$route['sipil'] 	= "frontend_sipil/sipil";
+$route['mekanikal'] 	= "frontend_mekanikal/mekanikal";
+$route['elektrikal'] 	= "frontend_elektrikal/elektrikal";
+$route['procurement'] 	= "frontend_procurement/procurement";
+$route['outsourcing'] 	= "frontend_outsourcing/outsourcing";
 
 $route['404_override'] = '';
 

@@ -77,7 +77,9 @@ a:hover, a:focus, a:active {
 	text-decoration: none;
 	color:#0012FF;
 }
-ul { margin-bottom: 0; }
+ul { margin-bottom: 0;
+	 margin-left: 20px;
+}
 figure {
 	margin-bottom: 6px;
 	position: relative;
@@ -179,7 +181,7 @@ option { padding: 5px 15px; }
 li {
 	line-height: 28px;
 	list-style: inherit;
-	margin-left: 15px;
+	/*margin-left: 15px;*/
 }
 ul ul { margin-left: 20px; }
 ol {
@@ -976,7 +978,7 @@ ul.gallery-cats:after{
 	display:block;
 	color:#272727;
 	line-height:32px;
-	padding:0 20px;
+	padding:0 10px;
 	position:relative;
 }
 .gallery-cats li a:after{
