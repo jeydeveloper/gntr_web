@@ -150,7 +150,10 @@ $(document).ready(function (e) {
     /*GOOGLE MAP*/
     /**********************************/
     $("#tg-map").gmap3({
-        marker: {address: "Haltern am See, Weseler Str. 151"},
+        marker:{
+        latLng: ["-6.090604", "106.997256"],
+          draggable:true
+        },
         map: {options: {zoom: 16}},
         scrollwheel: false,
         navigationControl: false,
