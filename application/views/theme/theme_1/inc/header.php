@@ -15,6 +15,7 @@
 	<link rel="stylesheet" href="<?php echo $assets['css']; ?>/main.css">
 	<link rel="stylesheet" href="<?php echo $assets['css']; ?>/color.css">
 	<link rel="stylesheet" href="<?php echo $assets['css']; ?>/responsive.css">
+	<link rel="stylesheet" href="<?php echo $assets['css']; ?>/styles.css">
 	<link rel="shortcut icon" href="<?php echo $assets['images']; ?>/pbm.ico">
 	<!-- <link rel="shortcut icon" type="image/png" href="assets/images/pbm.ico"/> -->
 	<script src="<?php echo $assets['js']; ?>/snap.svg-min.js"></script>

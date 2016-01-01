@@ -1,0 +1,5 @@
+.product-box:hover .tg-portfolio-content {background: #f7f7f7;}
+
+.product-box:hover .tg-img-hover{
+	visibility:hidden;
+}
