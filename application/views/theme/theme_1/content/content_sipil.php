@@ -16,7 +16,7 @@
 			</div>
 			<div class="tg-aboutus-section">
 				<div class="col-md-6 col-sm-12 col-xs-12">
-					<figure class="tg-about-img"><img src="<?php echo $assets['images']; ?>/img-06.png" alt="image description"></figure>
+					<figure class="tg-about-img"><img src="<?php echo $assets['images']; ?>/img-09.jpg" alt="image description"></figure>
 				</div>
 				<div class="col-md-6 col-sm-12 col-xs-12">
 					<div class="tg-aboutus">
