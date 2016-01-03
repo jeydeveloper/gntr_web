@@ -11,7 +11,7 @@
 			<div class="col-xs-12">
 				<div class="tg-theme-heading">
 					<span>JASA PELAYANAN</span>
-					<h2>PELAYANAN KAMI</h2>
+					<h2>PENGADAAN BARANG & JASA</h2>
 				</div>
 			</div>
 			<div class="tg-aboutus-section">

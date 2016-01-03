@@ -11,12 +11,12 @@
 			<div class="col-xs-12">
 				<div class="tg-theme-heading">
 					<span>JASA PELAYANAN</span>
-					<h2>PELAYANAN KAMI</h2>
+					<h2>ELEKTRIKAL</h2>
 				</div>
 			</div>
 			<div class="tg-aboutus-section">
 				<div class="col-md-6 col-sm-12 col-xs-12">
-					<figure class="tg-about-img"><img src="<?php echo $assets['images']; ?>/img-06.png" alt="image description"></figure>
+					<figure class="tg-about-img"><img src="<?php echo $assets['images']; ?>/img-08.jpg" alt="image description"></figure>
 				</div>
 				<div class="col-md-6 col-sm-12 col-xs-12">
 					<div class="tg-aboutus">

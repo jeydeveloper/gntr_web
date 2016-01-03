@@ -6,7 +6,7 @@
 <?php include('inc/header.php'); ?>
 <body class="home">
 	<?php include('inc/header_menu.php'); ?>
-	<?php include('content/content_service.php'); ?>
+	<?php include('content/content_elektrikal.php'); ?>
 	<?php include('inc/footer.php'); ?>
 </body>
 </html>
