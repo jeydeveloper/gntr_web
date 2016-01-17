@@ -31,8 +31,8 @@
 					<div class="tab-content tg-img-border">
 						<div role="tabpanel" class="tab-pane fade in active" id="portfolio-item-one">
 							<figure>
-								<a href="<?php echo $assets['images']; ?>/portfolio/img-14.jpg" data-rel="prettyPhoto[gallery1]">
-									<img src="<?php echo $assets['images']; ?>/portfolio/img-14.jpg" alt="image description">
+								<a href="<?php echo $assets['images']; ?>/andre/1.jpg" data-rel="prettyPhoto[gallery1]">
+									<img src="<?php echo $assets['images']; ?>/andre/1.jpg" alt="image description">
 								</a>
 							</figure>
 						</div>
@@ -93,7 +93,7 @@
 							<div role="presentation" class="active portfolio-item grid-item contsruction">
 								<div class="product-box">
 									<a href="#portfolio-item-one" aria-controls="portfolio-item-one" role="tab" data-toggle="tab">
-										<figure><img src="<?php echo $assets['images']; ?>/thumbnail/img-01.jpg" alt="image description"></figure>
+										<figure><img src="<?php echo $assets['images']; ?>/andre/2.jpg" alt="image description"></figure>
 										<div class="tg-img-hover">
 											<div class="tg-displaytable">
 												<div class="tg-displaytablecell">
@@ -108,7 +108,7 @@
 							<div role="presentation" class="portfolio-item grid-item digging">
 								<div class="product-box">
 									<a href="#portfolio-item-two" aria-controls="portfolio-item-two" role="tab" data-toggle="tab">
-										<figure><img src="<?php echo $assets['images']; ?>/thumbnail/img-02.jpg" alt="image description"></figure>
+										<figure><img src="<?php echo $assets['images']; ?>/andre/3.jpg" alt="image description"></figure>
 										<div class="tg-img-hover">
 											<div class="tg-displaytable">
 												<div class="tg-displaytablecell">
@@ -123,7 +123,7 @@
 							<div role="presentation" class="portfolio-item grid-item renovation">
 								<div class="product-box">
 									<a href="#portfolio-item-three" aria-controls="portfolio-item-three" role="tab" data-toggle="tab">
-										<figure><img src="<?php echo $assets['images']; ?>/thumbnail/img-03.jpg" alt="image description"></figure>
+										<figure><img src="<?php echo $assets['images']; ?>/andre/4.jpg" alt="image description"></figure>
 										<div class="tg-img-hover">
 											<div class="tg-displaytable">
 												<div class="tg-displaytablecell">
@@ -138,7 +138,7 @@
 							<div role="presentation" class="portfolio-item grid-item interior">
 								<div class="product-box">
 									<a href="#portfolio-item-four" aria-controls="portfolio-item-four" role="tab" data-toggle="tab">
-										<figure><img src="<?php echo $assets['images']; ?>/thumbnail/img-04.jpg" alt="image description"></figure>
+										<figure><img src="<?php echo $assets['images']; ?>/andre/5.jpg" alt="image description"></figure>
 										<div class="tg-img-hover">
 											<div class="tg-displaytable">
 												<div class="tg-displaytablecell">
