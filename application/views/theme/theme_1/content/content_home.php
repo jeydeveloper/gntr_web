@@ -175,7 +175,7 @@
 	<!--************************************
 			Virtually Build Start
 	*************************************-->
-	<section class="tg-main-section tg-haslayout parallax-window" data-appear-top-offset="600" data-parallax="scroll" data-image-src="<?php echo $assets['images']; ?>/parallax-img/bg-parallax-01.jpg">
+	<section class="tg-main-section tg-haslayout parallax-window" data-appear-top-offset="600" data-parallax="scroll" data-image-src="<?php echo $assets['images']; ?>/andre/6.jpg">
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-7 tg-displayinlineblock">
@@ -454,8 +454,8 @@
 			<div class="row">
 				<div class="col-xs-12">
 					<div class="tg-theme-heading">
-						<span>from our</span>
-						<h2>latest blog</h2>
+						<span>Proyek</span>
+						<h2>Berjalan</h2>
 					</div>
 				</div>
 				<div id="tg-posts-slider" class="tg-posts">

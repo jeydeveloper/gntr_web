@@ -9,7 +9,7 @@
 					<div class="col-sm-6 tg-colfirst-bgcolor">
 						<div class="tg-col">
 							<div class="tg-theme-heading">
-								<h3>About Us</h3>
+								<h3>Tentang Kami</h3>
 							</div>
 							<strong class="logo">
 								<a href="index.html">
@@ -17,7 +17,7 @@
 								</a>
 							</strong>
 							<div class="tg-description">
-								<p>Lorem ipsum dolor sit amet, consectetuer adiscing elit, sed diam nonummy nibh euismod tincidunt laoreet dolore magna aliquam.</p>
+								<p>Jasa Tenaga Kerja Kontraktor - Supplier - Mekanikal - Elektrikal - Sipil</p>
 							</div>
 							<ul class="tg-social-icon">
 								<li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -64,7 +64,7 @@
 					<div class="col-sm-6 tg-collast-bgcolor">
 						<div class="tg-col">
 							<div class="tg-theme-heading">
-								<h3>get in touch</h3>
+								<h3>Hubungi Kami</h3>
 							</div>
 							<div class="contact-info">
 								<ul>
@@ -106,7 +106,7 @@
 						<li><a href="<?php echo site_url('/contact'); ?>">Contact</a></li>
 					</ul>
 				</nav>
-				<span class="copyright">&copy; 2015 | All Rights Reserved</span>
+				<span class="copyright">&copy; 2016 | All Rights Reserved to PT. Putra Bahari Mandiri</span>
 			</div>
 		</div>
 	</div>
