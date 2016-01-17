@@ -154,7 +154,7 @@
 					<div class="col-md-3 col-sm-6 col-xs-6 width-480">
 						<div class="tg-teammember tg-haslayout">
 							<figure class="tg-member-img">
-								<a href="#"><img src="<?php echo $assets['images']; ?>/our-team/img-01.jpg" alt="member name"></a>
+								<a href="#"><img src="<?php echo $assets['images']; ?>/andre/7.jpg" alt="member name"></a>
 								<div class="tg-member-hover">
 									<ul class="tg-member-hover-icons">
 										<li><a href="#"><i class="flaticon-plus79"></i></a></li>
@@ -163,8 +163,8 @@
 								</div>
 							</figure>
 							<div class="tg-member-detail tg-haslayout">
-								<span class="tg-member-name">Britney Doe</span>
-								<span class="tg-member-postion">Designer at Example.com</span>
+								<span class="tg-member-name">Andre Lestari</span>
+								<span class="tg-member-postion">CEO at PT. Putra Bahari Mandiri</span>
 								<ul class="tg-social-icon">
 									<li><a href="#"><i class="fa fa-facebook"></i></a></li>
 									<li><a href="#"><i class="fa fa-twitter"></i></a></li>
