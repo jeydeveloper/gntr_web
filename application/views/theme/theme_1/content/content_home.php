@@ -4,7 +4,7 @@
 <div id="home-slider" class="home-slider tg-haslayout">
 	<div class="item">
 		<figure>
-			<img src="<?php echo $assets['images']; ?>/home-slider/img-01.jpg" alt="image description">
+			<img src="<?php echo $assets['images']; ?>/home-slider/img-04.jpg" alt="image description">
 		</figure>
 		<div class="tg-banner-content">
 			<div class="tg-border-bottomleft">
@@ -26,7 +26,7 @@
 	</div>
 	<div class="item">
 		<figure>
-			<img src="<?php echo $assets['images']; ?>/home-slider/img-03.jpg" alt="image description">
+			<img src="<?php echo $assets['images']; ?>/home-slider/img-06.jpg" alt="image description">
 		</figure>
 		<div class="tg-banner-content">
 			<div class="tg-border-bottomleft">
