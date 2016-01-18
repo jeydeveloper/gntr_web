@@ -464,7 +464,7 @@
 							<div class="tg-post-img">
 								<figure>
 									<a href="#">
-										<img src="<?php echo $assets['images']; ?>/blog/img-01.jpg" alt="image description">
+										<img src="<?php echo $assets['images']; ?>/andre/8.jpg" alt="image description">
 									</a>
 								</figure>
 								<div class="tg-post-hover">
@@ -475,13 +475,13 @@
 								</div>
 							</div>
 							<div class="tg-post-content tg-border-topleft">
-								<h3><a href="#">blog title here</a></h3>
-								<div class="tg-post-meta">
+								<h3><a href="#">Pembangunan Pergudangan</a></h3>
+								<!-- <div class="tg-post-meta">
 									<span><a href="#">By Admin / </a></span>
 									<span><a href="#">In Map</a></span>
-								</div>
+								</div> -->
 								<div class="tg-description">
-									<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.</p>
+									<p>Pembangunan pergudangan elektronik / Warehouse PT. Samsung Indonesia</p>
 								</div>
 							</div>
 						</div>
