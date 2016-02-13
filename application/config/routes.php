@@ -39,7 +39,9 @@
 */
 
 /* Routing untuk Backstage */
-$route['default_controller'] 	= "frontend_home/home";
+// $route['default_controller'] 	= "frontend_home/home";
+$route['default_controller'] 	= "frontend_landingpage/landingpage";
+$route['home'] 	= "frontend_home/home";
 $route['about'] 	= "frontend_about/about";
 $route['service'] 	= "frontend_service/service";
 $route['project'] 	= "frontend_project/project";
