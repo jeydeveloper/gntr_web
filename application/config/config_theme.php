@@ -1,5 +1,6 @@
 <?php if ( ! defined("BASEPATH")) exit("No direct script access allowed");
 
+define('CACHE_DISABLED', TRUE);
 define('CACHE_TIME', 60);
 
 // config theme

@@ -12,7 +12,7 @@ class Ourwork extends MY_Frontend {
 		$this->template->load('theme/' . $this->_data['theme'] . '/ourwork', 'lists', $this->_data);
 
 		//---this page has been cached. if want to be clear, delete the file cache in "root/cache/".
-		$this->output->cache(CACHE_TIME);
+		if(!CACHE_DISABLED) $this->output->cache(CACHE_TIME);
 	}
 }
 
