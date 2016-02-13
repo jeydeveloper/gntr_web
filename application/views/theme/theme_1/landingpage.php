@@ -5,7 +5,7 @@
 <!--[if gt IE 8]><!-->	<html class="no-js" lang=""> <!--<![endif]-->
 <?php include('inc/header.php'); ?>
 <body class="home">
-	<?php //include('inc/header_menu.php'); ?>
+	<?php include('inc/header_landingpage.php'); ?>
 	<?php include('content/content_landingpage.php'); ?>
 	<?php include('inc/footer.php'); ?>
 </body>
