@@ -26,13 +26,13 @@
 <!--************************************
 		Header Start
 *************************************-->
-<div class="tg-banner tg-haslayout parallax-window" data-appear-top-offset="600" data-parallax="scroll" data-image-src="<?php echo $assets['images']; ?>/page-banner-img/img-01.jpg">
+<div class="tg-banner tg-haslayout parallax-window" data-appear-top-offset="600" data-parallax="scroll" data-image-src="<?php echo $assets['images']; ?>/landingpage/2.jpg">
 	<div class="tg-banner-holder">
 		<div class="container">
 			<div class="tg-displaytable">
 				<div class="tg-displaytablecell">
 					<div class="banner-content tg-haslayout">
-						<h1>virtual construct</h1>
+						<h1>PT. Putra Bahari Mandiri</h1>
 						<ol class="tg-breadcrumb">
 							<li><a href="#">Home</a></li>
 							<li class="active">Virtual Construct</li>

@@ -17,12 +17,12 @@
 		<div class="tg-extriordesign tg-haslayout">
 			<div id="tg-nav-tabsslider" class="tg-nav-tabsslider tg-haslayout">
 				<ul class="tg-nav-tabs slides" role="tablist">
-					<li role="presentation"><a href="#roof" aria-controls="roof" role="tab" data-toggle="tab">Roof</a></li>
-					<li role="presentation"><a href="#housetrim" aria-controls="housetrim" role="tab" data-toggle="tab">House Trim</a></li>
-					<li role="presentation"><a href="#railing" aria-controls="railing" role="tab" data-toggle="tab">Railing</a></li>
-					<li role="presentation"><a href="#frontdoor" aria-controls="frontdoor" role="tab" data-toggle="tab">Front Door</a></li>
-					<li role="presentation"><a href="#shutters" aria-controls="shutters" role="tab" data-toggle="tab">Shutters</a></li>
-					<li role="presentation"><a href="#other" aria-controls="other" role="tab" data-toggle="tab">Other</a></li>
+					<li role="presentation"><a href="#roof" aria-controls="roof" role="tab" data-toggle="tab">Arsitektual</a></li>
+					<li role="presentation"><a href="#housetrim" aria-controls="housetrim" role="tab" data-toggle="tab">Sipil</a></li>
+					<li role="presentation"><a href="#railing" aria-controls="railing" role="tab" data-toggle="tab">Mekanikal</a></li>
+					<li role="presentation"><a href="#frontdoor" aria-controls="frontdoor" role="tab" data-toggle="tab">Elektrikal</a></li>
+					<li role="presentation"><a href="#shutters" aria-controls="shutters" role="tab" data-toggle="tab">Pengadaan Barang & Jasa</a></li>
+					<li role="presentation"><a href="#other" aria-controls="other" role="tab" data-toggle="tab">Manpower</a></li>
 				</ul>
 			</div>
 			<div class="tab-content tg-haslayout">
@@ -30,7 +30,7 @@
 					<div class="tab-content tg-haslayout tg-view-box">
 						<div role="tabpanel" class="tab-pane fade in active tg-haslayout" id="design-one">
 							<figure>
-								<img src="<?php echo $assets['images']; ?>/large/roof/img-01.jpg" alt="image description">
+								<img src="<?php echo $assets['images']; ?>/landingpage/1.jpg" alt="image description">
 								<figcaption>
 									<div class="tg-caption">
 										<span><i class="fa fa-info-circle"></i> Once you are done with the editing, click Confirm order to proceed.</span>
@@ -353,7 +353,7 @@
 					<div class="tab-content tg-haslayout tg-view-box">
 						<div role="tabpanel" class="tab-pane fade in active tg-haslayout" id="design-thirteen">
 							<figure>
-								<img src="<?php echo $assets['images']; ?>/large/house-trim/img-01.jpg" alt="image description">
+								<img src="<?php echo $assets['images']; ?>/landingpage/4.jpg" alt="image description">
 								<figcaption>
 									<i class="fa fa-info-circle"></i>
 									<span>Once you are done with the editing, click Confirm order to proceed.</span>
@@ -1280,7 +1280,7 @@
 					<div class="tab-content tg-haslayout tg-view-box">
 						<div role="tabpanel" class="tab-pane fade in active tg-haslayout" id="design-fourty-nine">
 							<figure>
-								<img src="<?php echo $assets['images']; ?>/large/shutters/img-01.jpg" alt="image description">
+								<img src="<?php echo $assets['images']; ?>/landingpage/5.jpg" alt="image description">
 								<figcaption>
 									<i class="fa fa-info-circle"></i>
 									<span>Once you are done with the editing, click Confirm order to proceed.</span>
@@ -1589,7 +1589,7 @@
 					<div class="tab-content tg-haslayout tg-view-box">
 						<div role="tabpanel" class="tab-pane fade in active tg-haslayout" id="design-sixty-one">
 							<figure>
-								<img src="<?php echo $assets['images']; ?>/large/others/img-01.jpg" alt="image description">
+								<img src="<?php echo $assets['images']; ?>/landingpage/3.jpg" alt="manpower">
 								<figcaption>
 									<i class="fa fa-info-circle"></i>
 									<span>Once you are done with the editing, click Confirm order to proceed.</span>
