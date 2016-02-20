@@ -176,7 +176,7 @@
 											<div class="tg-predesign-img">
 												<a href="#roof" aria-controls="design-one" role="tab" data-toggle="tab">
 													<figure>
-														<img src="<?php echo $assets['images']; ?>/large/roof/img-13.jpg" alt="image description">
+														<img src="<?php echo $assets['images']; ?>/foto/1.jpg" alt="putra bahari mandiri">
 													</figure>
 													<div class="tg-img-hover">
 														<i class="flaticon-plus79"></i>
@@ -188,7 +188,7 @@
 											<div class="tg-predesign-img">
 												<a href="#design-two" aria-controls="design-two" role="tab" data-toggle="tab">
 													<figure>
-														<img src="<?php echo $assets['images']; ?>/large/roof/img-14.jpg" alt="image description">
+														<img src="<?php echo $assets['images']; ?>/foto/2.jpg" alt="putra bahari mandiri">
 													</figure>
 													<div class="tg-img-hover">
 														<i class="flaticon-plus79"></i>
@@ -200,7 +200,7 @@
 											<div class="tg-predesign-img">
 												<a href="#design-three" aria-controls="design-three" role="tab" data-toggle="tab">
 													<figure>
-														<img src="<?php echo $assets['images']; ?>/large/roof/img-15.jpg" alt="image description">
+														<img src="<?php echo $assets['images']; ?>/foto/3.jpg" alt="putra bahari mandiri">
 													</figure>
 													<div class="tg-img-hover">
 														<i class="flaticon-plus79"></i>
@@ -212,7 +212,7 @@
 											<div class="tg-predesign-img">
 												<a href="#design-four" aria-controls="design-four" role="tab" data-toggle="tab">
 													<figure>
-														<img src="<?php echo $assets['images']; ?>/large/roof/img-16.jpg" alt="image description">
+														<img src="<?php echo $assets['images']; ?>/foto/4.jpg" alt="putra bahari mandiri">
 													</figure>
 													<div class="tg-img-hover">
 														<i class="flaticon-plus79"></i>
@@ -224,7 +224,7 @@
 											<div class="tg-predesign-img">
 												<a href="#design-five" aria-controls="design-five" role="tab" data-toggle="tab">
 													<figure>
-														<img src="<?php echo $assets['images']; ?>/large/roof/img-17.jpg" alt="image description">
+														<img src="<?php echo $assets['images']; ?>/foto/5.jpg" alt="putra bahari mandiri">
 													</figure>
 													<div class="tg-img-hover">
 														<i class="flaticon-plus79"></i>
@@ -236,7 +236,7 @@
 											<div class="tg-predesign-img">
 												<a href="#design-six" aria-controls="design-six" role="tab" data-toggle="tab">
 													<figure>
-														<img src="<?php echo $assets['images']; ?>/large/roof/img-18.jpg" alt="image description">
+														<img src="<?php echo $assets['images']; ?>/foto/6.jpg" alt="putra bahari mandiri">
 													</figure>
 													<div class="tg-img-hover">
 														<i class="flaticon-plus79"></i>
@@ -248,7 +248,7 @@
 											<div class="tg-predesign-img">
 												<a href="#design-seven" aria-controls="design-seven" role="tab" data-toggle="tab">
 													<figure>
-														<img src="<?php echo $assets['images']; ?>/large/roof/img-19.jpg" alt="image description">
+														<img src="<?php echo $assets['images']; ?>/foto/7.jpg" alt="putra bahari mandiri">
 													</figure>
 													<div class="tg-img-hover">
 														<i class="flaticon-plus79"></i>
@@ -260,7 +260,7 @@
 											<div class="tg-predesign-img">
 												<a href="#design-eight" aria-controls="design-eight" role="tab" data-toggle="tab">
 													<figure>
-														<img src="<?php echo $assets['images']; ?>/large/roof/img-20.jpg" alt="image description">
+														<img src="<?php echo $assets['images']; ?>/foto/8.jpg" alt="putra bahari mandiri">
 													</figure>
 													<div class="tg-img-hover">
 														<i class="flaticon-plus79"></i>
@@ -272,7 +272,7 @@
 											<div class="tg-predesign-img">
 												<a href="#design-nine" aria-controls="design-nine" role="tab" data-toggle="tab">
 													<figure>
-														<img src="<?php echo $assets['images']; ?>/large/roof/img-21.jpg" alt="image description">
+														<img src="<?php echo $assets['images']; ?>/foto/9.jpg" alt="putra bahari mandiri">
 													</figure>
 													<div class="tg-img-hover">
 														<i class="flaticon-plus79"></i>
@@ -284,7 +284,7 @@
 											<div class="tg-predesign-img">
 												<a href="#design-ten" aria-controls="design-ten" role="tab" data-toggle="tab">
 													<figure>
-														<img src="<?php echo $assets['images']; ?>/large/roof/img-22.jpg" alt="image description">
+														<img src="<?php echo $assets['images']; ?>/foto/10.jpg" alt="putra bahari mandiri">
 													</figure>
 													<div class="tg-img-hover">
 														<i class="flaticon-plus79"></i>
@@ -296,7 +296,7 @@
 											<div class="tg-predesign-img">
 												<a href="#design-eleven" aria-controls="design-eleven" role="tab" data-toggle="tab">
 													<figure>
-														<img src="<?php echo $assets['images']; ?>/large/roof/img-23.jpg" alt="image description">
+														<img src="<?php echo $assets['images']; ?>/foto/11.jpg" alt="putra bahari mandiri">
 													</figure>
 													<div class="tg-img-hover">
 														<i class="flaticon-plus79"></i>
@@ -308,7 +308,7 @@
 											<div class="tg-predesign-img">
 												<a href="#design-twelve" aria-controls="design-twelve" role="tab" data-toggle="tab">
 													<figure>
-														<img src="<?php echo $assets['images']; ?>/large/roof/img-24.jpg" alt="image description">
+														<img src="<?php echo $assets['images']; ?>/foto/12.jpg" alt="putra bahari mandiri">
 													</figure>
 													<div class="tg-img-hover">
 														<i class="flaticon-plus79"></i>
@@ -971,7 +971,7 @@
 					<div class="tab-content tg-haslayout tg-view-box">
 						<div role="tabpanel" class="tab-pane fade in active tg-haslayout" id="design-thirty-seven">
 							<figure>
-								<img src="<?php echo $assets['images']; ?>/large/frontdoor/img-01.jpg" alt="image description">
+								<img src="<?php echo $assets['images']; ?>/landingpage/6.jpg" alt="image description">
 								<figcaption>
 									<i class="fa fa-info-circle"></i>
 									<span>Once you are done with the editing, click Confirm order to proceed.</span>
@@ -1103,7 +1103,7 @@
 											<div class="tg-predesign-img">
 												<a href="#roof" aria-controls="design-one" role="tab" data-toggle="tab">
 													<figure>
-														<img src="<?php echo $assets['images']; ?>/large/frontdoor/img-13.jpg" alt="image description">
+														<img src="<?php echo $assets['images']; ?>/foto/1.jpg" alt="putra bahari mandiri">
 													</figure>
 													<div class="tg-img-hover">
 														<i class="flaticon-plus79"></i>
@@ -1115,7 +1115,7 @@
 											<div class="tg-predesign-img">
 												<a href="#design-two" aria-controls="design-two" role="tab" data-toggle="tab">
 													<figure>
-														<img src="<?php echo $assets['images']; ?>/large/frontdoor/img-14.jpg" alt="image description">
+														<img src="<?php echo $assets['images']; ?>/foto/2.jpg" alt="putra bahari mandiri">
 													</figure>
 													<div class="tg-img-hover">
 														<i class="flaticon-plus79"></i>
@@ -1127,7 +1127,7 @@
 											<div class="tg-predesign-img">
 												<a href="#design-three" aria-controls="design-three" role="tab" data-toggle="tab">
 													<figure>
-														<img src="<?php echo $assets['images']; ?>/large/frontdoor/img-15.jpg" alt="image description">
+														<img src="<?php echo $assets['images']; ?>/foto/3.jpg" alt="putra bahari mandiri">
 													</figure>
 													<div class="tg-img-hover">
 														<i class="flaticon-plus79"></i>
@@ -1139,7 +1139,7 @@
 											<div class="tg-predesign-img">
 												<a href="#design-four" aria-controls="design-four" role="tab" data-toggle="tab">
 													<figure>
-														<img src="<?php echo $assets['images']; ?>/large/frontdoor/img-16.jpg" alt="image description">
+														<img src="<?php echo $assets['images']; ?>/foto/4.jpg" alt="putra bahari mandiri">
 													</figure>
 													<div class="tg-img-hover">
 														<i class="flaticon-plus79"></i>
@@ -1151,7 +1151,7 @@
 											<div class="tg-predesign-img">
 												<a href="#design-five" aria-controls="design-five" role="tab" data-toggle="tab">
 													<figure>
-														<img src="<?php echo $assets['images']; ?>/large/frontdoor/img-17.jpg" alt="image description">
+														<img src="<?php echo $assets['images']; ?>/foto/5.jpg" alt="putra bahari mandiri">
 													</figure>
 													<div class="tg-img-hover">
 														<i class="flaticon-plus79"></i>
@@ -1163,7 +1163,7 @@
 											<div class="tg-predesign-img">
 												<a href="#design-six" aria-controls="design-six" role="tab" data-toggle="tab">
 													<figure>
-														<img src="<?php echo $assets['images']; ?>/large/frontdoor/img-18.jpg" alt="image description">
+														<img src="<?php echo $assets['images']; ?>/foto/6.jpg" alt="putra bahari mandiri">
 													</figure>
 													<div class="tg-img-hover">
 														<i class="flaticon-plus79"></i>
@@ -1175,7 +1175,7 @@
 											<div class="tg-predesign-img">
 												<a href="#design-seven" aria-controls="design-seven" role="tab" data-toggle="tab">
 													<figure>
-														<img src="<?php echo $assets['images']; ?>/large/frontdoor/img-19.jpg" alt="image description">
+														<img src="<?php echo $assets['images']; ?>/foto/7.jpg" alt="putra bahari mandiri">
 													</figure>
 													<div class="tg-img-hover">
 														<i class="flaticon-plus79"></i>
@@ -1187,7 +1187,7 @@
 											<div class="tg-predesign-img">
 												<a href="#design-eight" aria-controls="design-eight" role="tab" data-toggle="tab">
 													<figure>
-														<img src="<?php echo $assets['images']; ?>/large/frontdoor/img-20.jpg" alt="image description">
+														<img src="<?php echo $assets['images']; ?>/foto/8.jpg" alt="putra bahari mandiri">
 													</figure>
 													<div class="tg-img-hover">
 														<i class="flaticon-plus79"></i>
@@ -1199,7 +1199,7 @@
 											<div class="tg-predesign-img">
 												<a href="#design-nine" aria-controls="design-nine" role="tab" data-toggle="tab">
 													<figure>
-														<img src="<?php echo $assets['images']; ?>/large/frontdoor/img-21.jpg" alt="image description">
+														<img src="<?php echo $assets['images']; ?>/foto/9.jpg" alt="putra bahari mandiri">
 													</figure>
 													<div class="tg-img-hover">
 														<i class="flaticon-plus79"></i>
@@ -1211,7 +1211,7 @@
 											<div class="tg-predesign-img">
 												<a href="#design-ten" aria-controls="design-ten" role="tab" data-toggle="tab">
 													<figure>
-														<img src="<?php echo $assets['images']; ?>/large/frontdoor/img-22.jpg" alt="image description">
+														<img src="<?php echo $assets['images']; ?>/foto/10.jpg" alt="putra bahari mandiri">
 													</figure>
 													<div class="tg-img-hover">
 														<i class="flaticon-plus79"></i>
@@ -1223,7 +1223,7 @@
 											<div class="tg-predesign-img">
 												<a href="#design-eleven" aria-controls="design-eleven" role="tab" data-toggle="tab">
 													<figure>
-														<img src="<?php echo $assets['images']; ?>/large/frontdoor/img-23.jpg" alt="image description">
+														<img src="<?php echo $assets['images']; ?>/foto/11.jpg" alt="putra bahari mandiri">
 													</figure>
 													<div class="tg-img-hover">
 														<i class="flaticon-plus79"></i>
@@ -1235,7 +1235,7 @@
 											<div class="tg-predesign-img">
 												<a href="#design-twelve" aria-controls="design-twelve" role="tab" data-toggle="tab">
 													<figure>
-														<img src="<?php echo $assets['images']; ?>/large/frontdoor/img-24.jpg" alt="image description">
+														<img src="<?php echo $assets['images']; ?>/foto/12.jpg" alt="putra bahari mandiri">
 													</figure>
 													<div class="tg-img-hover">
 														<i class="flaticon-plus79"></i>
@@ -1280,7 +1280,7 @@
 					<div class="tab-content tg-haslayout tg-view-box">
 						<div role="tabpanel" class="tab-pane fade in active tg-haslayout" id="design-fourty-nine">
 							<figure>
-								<img src="<?php echo $assets['images']; ?>/landingpage/5.jpg" alt="image description">
+								<img src="<?php echo $assets['images']; ?>/landingpage/5.jpg" alt="putra bahari mandiri">
 								<figcaption>
 									<i class="fa fa-info-circle"></i>
 									<span>Once you are done with the editing, click Confirm order to proceed.</span>
